@@ -2,8 +2,10 @@ Quote Wizard Coding Test
 
 Running the program only requires...
 
-Pulling down the git repository.
+1) Pull down the git repository.
 
-Running 'npm install' in the root directory.
+2) Run 'yarn install' in the root directory in the command line.
 
-Running 'yarn start' in the root directory.
+3) Running 'yarn start' in the root directory in the command line.
+
+Thanks again for the opportunity!  If you have any questions please just let me know!
